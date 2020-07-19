@@ -574,7 +574,7 @@ small{
 
 
 
-/* ==================================================================== */
+/* ============================================================= */
 /* ==========THE SECTION OF THE MEDIA QUERY============ */
 @media screen and (max-width:320px){
 
@@ -4426,7 +4426,7 @@ body{
 .container{
     background:#141d26;
     position:absolute;
-    top:115%;
+    top:125%;
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
