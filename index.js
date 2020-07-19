@@ -358,11 +358,11 @@ $(document).ready(function(){
     });
 });
 
-$(document).ready(function(){
-    $("#search").click(function(){
-        $(".search").show("slow");
-    });
-    $("#back").click(function(){
-        $(".search").hide("slow");
-    });
-});
+// $(document).ready(function(){
+//     $("#search").click(function(){
+//         $(".search").show("slow");
+//     });
+//     $("#back").click(function(){
+//         $(".search").hide("slow");
+//     });
+// });
