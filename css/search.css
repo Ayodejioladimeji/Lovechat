@@ -28,13 +28,16 @@ body{
     height:580px;
     padding:5px;
 }
+.main-search{
+    position:fixed;
+    width:100%;
+}
 
 .search-top{
     background:#141d26;
-    width:92.5%;
+    width:95%;
     height:100px;
     margin-bottom:10px;
-    position:fixed;
 }
 .search-left{
     background:#243447;
@@ -204,12 +207,15 @@ body{
     padding:5px;
 }
 
+.main-search{
+    position:fixed;
+}
+
 .search-top{
     background:#141d26;
     width:92.5%;
     height:100px;
     margin-bottom:10px;
-    position:fixed;
 }
 .search-left{
     background:#243447;
