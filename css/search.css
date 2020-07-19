@@ -100,6 +100,7 @@ body{
     margin-top:110px;
     padding:10px;
     overflow:auto;
+    display:none;
 }
 .search-bottom::-webkit-scrollbar{
     display:none;
