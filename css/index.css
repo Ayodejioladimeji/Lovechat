@@ -4113,7 +4113,7 @@ section{
 
 /* =====THE CHAT SECTION====== */
 .chat-section{
-    background:yellow;
+    background:#141d26;
     height:460px;
     width:100%;
     margin-bottom:5px;
@@ -4426,7 +4426,7 @@ body{
 .container{
     background:#141d26;
     position:absolute;
-    top:88%;
+    top:100%;
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
@@ -4590,7 +4590,7 @@ section{
 
 /* =====THE CHAT SECTION====== */
 .chat-section{
-    background:blue;
+    background:#141d26;
     height:460px;
     width:100%;
     margin-bottom:5px;
@@ -5066,7 +5066,7 @@ section{
 
 /* =====THE CHAT SECTION====== */
 .chat-section{
-    background:green;
+    background:#141d26;
     height:460px;
     width:100%;
     margin-bottom:5px;
