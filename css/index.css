@@ -890,25 +890,25 @@ small{
 .users{
     background:#141d26;
     position:absolute;
-    top:55%;
+    top:50%;
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
-    height:540px;
+    height:440px;
     padding:10px;
     display:none;
 }
 
 .user-container{
     background:#243447;
-    height:520px;
+    height:485px;
     width:100%;
     padding:5px;
 }
 
 .user-list{
     background:#141d26;
-    height:510px;
+    height:480px;
     width:100%;
     padding:10px;
     overflow:auto;
@@ -1052,7 +1052,7 @@ small{
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
-    height:600px;
+    height:570px;
     padding:10px;
     padding:10px;
     display:none;
@@ -1060,7 +1060,7 @@ small{
 .search-div{
     background:#243447;
     width:100%;
-    height:580px;
+    height:550px;
     padding:5px;
 }
 
@@ -1128,7 +1128,7 @@ small{
 .search-bottom{
     background:#141d26;
     width:100%;
-    height:460px;
+    height:430px;
     margin-top:110px;
     padding:10px;
     overflow:auto;
@@ -1171,14 +1171,14 @@ body{
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
-    height:660px;
+    height:670px;
     padding:10px;
 }
 
 /* =======THE SECTION======= */
 section{
     background:#243447;
-    height:540px;
+    height:550px;
     width:100%;
 }
 
@@ -1469,25 +1469,25 @@ small{
 .users{
     background:#141d26;
     position:absolute;
-    top:55%;
+    top:54%;
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
-    height:540px;
+    height:600px;
     padding:10px;
     display:none;
 }
 
 .user-container{
     background:#243447;
-    height:520px;
+    height:590px;
     width:100%;
     padding:5px;
 }
 
 .user-list{
     background:#141d26;
-    height:510px;
+    height:580px;
     width:100%;
     padding:10px;
     overflow:auto;
@@ -1631,7 +1631,7 @@ small{
     left:50%;
     transform:translate(-50%,-50%);
     width:100%;
-    height:600px;
+    height:650px;
     padding:10px;
     padding:10px;
     display:none;
@@ -1639,7 +1639,7 @@ small{
 .search-div{
     background:#243447;
     width:100%;
-    height:580px;
+    height:640px;
     padding:5px;
 }
 
@@ -1707,7 +1707,7 @@ small{
 .search-bottom{
     background:#141d26;
     width:100%;
-    height:460px;
+    height:520px;
     margin-top:110px;
     padding:10px;
     overflow:auto;
